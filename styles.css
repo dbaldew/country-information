@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+
+* {
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+.header {
+    font-family: 'Cookie', cursive;
+    font-size: 40px;
+    font-style: italic;
+    display: flex;
+
+}
+
+.globe {
+    display: flex;
+
+}
+
+.searchbar {
+    display: flex;
+    margin: 10px;
+
+}
+
+.result {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    font-size: 20px;
+
+}
+
+.countryflag {
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+
+}
+
+.countryname {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Cookie', cursive;
+    font-size: 30px;
+
+}
+
+
+p {
+    margin: 5px;
+
+}
