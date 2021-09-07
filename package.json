@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dbaldew/country-information/issues"
   },
-  "homepage": "https://github.com/dbaldew/country-information#readme"
+  "homepage": "https://github.com/dbaldew/country-information#readme",
+  "dependencies": {
+    "axios": "^0.21.4"
+  }
 }
